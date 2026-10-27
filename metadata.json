@@ -1,0 +1,6 @@
+{
+  "name": "Novalyte AI Founder Dashboard",
+  "description": "Premium Founder & Mindset Command Center for Jamil — Stage Manifestos, TTS Audio Reader, Lyria Ambient Sound, Daily Habits, and AI Reflection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
